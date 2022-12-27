@@ -1,6 +1,6 @@
 ### Hi! I’m Bryce Wray. 👋
 
-Based in the Dallas/Fort Worth area in Texas, U.S.A., I’m a nerdy advocate for static websites and the tools that build them — particularly, but definitely not limited to (in alphabetical order) [Eleventy](https://11ty.dev) and [Hugo](https://gohugo.io).
+Based in the Dallas/Fort Worth area in Texas, U.S.A., I’m a nerdy advocate for static websites and the tools that build them — particularly, but definitely not limited to (in alphabetical order), [Eleventy](https://11ty.dev) and [Hugo](https://gohugo.io).
 
 My website is https://www.brycewray.com. It has both [RSS/Atom](https://www.brycewray.com/index.xml) and [JSON](https://www.brycewray.com/index.json) feeds.
 
