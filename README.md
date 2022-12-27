@@ -18,7 +18,7 @@ You can reach me via [bw@brycewray.com](mailto:bw@brycewray.com).
  
 ## Skill sets/technologies
 - **Communications skills**: Strong command, in both writing and speaking, of the English language.
-- **Website management and development**: Vendor-proprietary CMS, Drupal, WordPress, Hugo, Gatsby, Eleventy, Astro, Next.js, PHP, JSP, JavaScript, CSS, CSS Grid, Bootstrap, Markdown, HTML, Git (CLI and clients), Google Analytics, Netlify Analytics, Fathom Analytics, Quantcast.
+- **Website management and development**: Vendor-proprietary CMS, Drupal, WordPress, Hugo, Gatsby, Eleventy, Astro, Next.js, PHP, JSP, JavaScript, CSS, Sass/SCSS, Tailwind CSS, Bootstrap, Markdown, HTML, Git (CLI and clients), Google Analytics, Netlify Analytics, Fathom Analytics, Quantcast.
 - **Multimedia, documentation, layout, design, and online training**: Adobe Creative Cloud, Adobe Creative Suite, Affinity Designer, Affinity Photo, Microsoft Office, Google Docs for Business, Articulate, Audacity, Apple iMovie, QuarkXPress, and others.
 - **Marketing automation and CRM**: Pardot, NetSuite, HubSpot, SalesForce, Act!.
 - **Marketing framework**: Pragmatic Marketing.
