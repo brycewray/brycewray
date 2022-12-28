@@ -7,13 +7,14 @@ My website is [brycewray.com](https://www.brycewray.com). It has both [RSS/Atom]
 I’m [retired](https://www.brycewray.com/posts/2021/09/transition/) from the eight-to-five grind after three decades as a marketing/tech professional, **but** still actively involved in website development and [available](https://www.brycewray.com/contact/) for writing and/or consulting.
 
 ## Historical overview of career
-- Marketing-savvy, web-savvy pro with multi-platform marketing automation experience.
+- Marketing-savvy, web-savvy pro.
 - Decades of experience in high-tech corporations.
 - Powerful, time-honed written/spoken communications skills.
 - Builder/maintainer of websites, collaterals, and documentation from conception to deliverables.
 - Tremendous problem-solving skills.
 - Reliably handled the load when product launches turned up the heat.
 - Comfortable with working closely with C-level execcutives.
+- Multi-platform marketing automation experience.
  
 ## Skill sets/technologies
 - **Communications skills**: Strong command, in both writing and speaking, of the English language.
