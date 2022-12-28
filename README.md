@@ -6,7 +6,6 @@ My website is https://www.brycewray.com. It has both [RSS/Atom](https://www.bryc
 
 I’m [retired](https://www.brycewray.com/posts/2021/09/transition/) from the eight-to-five grind after three decades as a marketing/tech professional, **but** still actively involved in website development and [available](https://www.brycewray.com/contact/) for writing and/or consulting.
 
-You can reach me via [bw@brycewray.com](mailto:bw@brycewray.com).
 ## Historical overview of career
 - Marketing-savvy, web-savvy pro with multi-platform marketing automation experience.
 - Decades of experience in high-tech corporations.
