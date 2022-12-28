@@ -22,7 +22,7 @@ I’m [retired](https://www.brycewray.com/posts/2021/09/transition/) from the ei
 - **Marketing automation and CRM**: Pardot, NetSuite, HubSpot, SalesForce, Act!.
 - **Marketing framework**: Pragmatic Marketing.
 - **Change management and version control**: Atlassian Jira, Bitbucket, GitHub, GitLab.
-- **Operating systems**: macOS, Windows, Linux, MS-DS, iOS, Android, Chrome OS.
+- **Operating systems**: macOS, Windows, Linux, MS-DOS, iOS, Android, Chrome OS.
 
 <!--
 **brycewray/brycewray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
