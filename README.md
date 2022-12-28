@@ -5,7 +5,7 @@ Based in the Dallas/Fort Worth area in Texas, U.S.A., I’m a nerdy advocate for
 My website is [brycewray.com](https://www.brycewray.com). It has both [RSS/Atom](https://www.brycewray.com/index.xml) and [JSON](https://www.brycewray.com/index.json) feeds.
 
 I’m [retired](https://www.brycewray.com/posts/2021/09/transition/) from the eight-to-five grind after three decades as a marketing/tech professional, **but** still actively involved in website development and [available](https://www.brycewray.com/contact/) for writing and/or consulting.
-
+<!--
 ## Historical overview of career
 - Marketing-savvy, web-savvy pro.
 - Decades of experience in high-tech corporations.
@@ -24,18 +24,4 @@ I’m [retired](https://www.brycewray.com/posts/2021/09/transition/) from the ei
 - **Marketing framework**: Pragmatic Marketing.
 - **Change management and version control**: Atlassian Jira, Bitbucket, GitHub, GitLab.
 - **Operating systems**: macOS, Windows, Linux, MS-DOS, iOS, Android, Chrome OS.
-
-<!--
-**brycewray/brycewray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
